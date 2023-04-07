@@ -10,6 +10,7 @@ baseurl: ''
 author:
   name: 'Katrin Plaumann'
   email: k.plaumann@gmail.com
+  linkedin_username: dr-katrin-plaumann
 
 defaults:
   -
